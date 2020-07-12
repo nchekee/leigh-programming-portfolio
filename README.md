@@ -4,12 +4,6 @@
 #### By **{Leigh nyaga,mnialive}**
 ## Description
 {This is a short description of who i am and the things that represent me as a person.I have also listed some of my hobbies and interests.}
-## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
 {To open this website you need a browser such as mozilla firefox or google chrome.}
 
 ## Technologies Used
